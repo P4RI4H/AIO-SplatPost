@@ -1,4 +1,4 @@
-#AIO-SplatPost
+# AIO-SplatPost
 
 Has all the files necessary to start making SplatPost prints with the exception of Teensy Loader, WinAVR, and Python, which are all freely available at the following sites:
 
