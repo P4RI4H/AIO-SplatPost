@@ -1,11 +1,7 @@
 # AIO-SplatPost
 
-Has all the files necessary to start making SplatPost prints with the exception of Teensy Loader, WinAVR, and Python, which are all freely available at the following sites:
-
-Teensy Loader: https://www.pjrc.com/teensy/loader_win10.html
+Has all the files necessary to start making SplatPost prints with the exception of WinAVR and Python, which are both freely available at the following sites:
 
 WinAVR: https://sourceforge.net/projects/winavr/files/
 
 Python 2.7.x: https://www.python.org/downloads/
-
-Documentation for LUFA and Fightstick Repositories are included as well.
