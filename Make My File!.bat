@@ -4,4 +4,4 @@ echo Executing necessary commands for SplatPost Printer. This window will close 
 cd SplatPost
 python bin2c.py image.data > image.c
 make
-teensy_loader_cli --mmcu=at90usb1286 -w Joystick.hex
+teensy_loader_cli -mmcu=at90usb1286 -w Joystick.hex
